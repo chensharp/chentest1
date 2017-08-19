@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1500644355 source:e:\codeblocksproject\chentest1\main.cpp
+	<iostream>
+	<A.h>
+
+1500644646 e:\codeblocksproject\chentest1\include\a.h
+	<iostream>
+
+1500644661 source:e:\codeblocksproject\chentest1\src\a.cpp
+	"A.h"
+
+1503042574 source:c:\users\chensharp\documents\codeblocksworkshop\chentest1\main.cpp
+	<iostream>
+	<A.h>
+
+1500644648 c:\users\chensharp\documents\codeblocksworkshop\chentest1\include\a.h
+	<iostream>
+
+1500644662 source:c:\users\chensharp\documents\codeblocksworkshop\chentest1\src\a.cpp
+	"A.h"
+
